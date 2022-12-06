@@ -341,9 +341,21 @@ body a{
 	z-index:2;
 }
 
+/*--background color--?*/
   #plans{
 		background-color: #a1aeb7;
 	  }
+
+  #about{
+	background-color: rgb(193, 203, 211);
+  }
+
+  #service{
+	background-color: #d7e3f4;
+  }
+  #support{
+	background-color: #eceef4;
+  }
 /*-- welcome-note --?*/
 .welcome-note{
 	background:#f5f5f5;
