@@ -248,7 +248,7 @@ body a{
 }
 .b-info-right{
 	float:right;
-	width:40%;
+	width:35%;
 }
 .b-info-left h1{
 	color:#FFF;
@@ -274,7 +274,7 @@ body a{
 }
 .b-info-right p{
 	color:#FFF;
-	font-size:1.2em;
+	font-size:1.8em;
 }
 .b-info-right p span,.b-info-right p a{
 	font-weight:bold;
