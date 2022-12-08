@@ -1067,8 +1067,9 @@ h2.m_7{
 }
 .map iframe {
 	width: 29cm;
-	height: 7cm;
+	height: 10cm;
 	min-height:100px;
+	padding: 1cm;
 	border: none;
 }
 .contact_address {
@@ -1339,7 +1340,7 @@ ul.service_box {
 	padding: 3em 0;
 }
 .map iframe {
-	min-height: 200px;
+	min-height: 100px;
 }
 .contact-form {
 	margin-top: 3em;
