@@ -180,6 +180,21 @@ body a{
     z-index: 9999;
     background:#fff;
 }
+
+
+
+
+
+  p2{
+   
+    width: auto;
+    font-size: 25pt;
+  font-style: italic;
+  
+  color: aliceblue;
+  }
+
+
 /***** Media Quries *****/
 @media screen and (max-width: 768px) {
 	.h_logo4{
@@ -1700,5 +1715,6 @@ h2.m_7 {
       }
       }
 
+	 
 	
 }
