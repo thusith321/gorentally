@@ -431,11 +431,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-9">
 						<div class="contact-form">
-						 <form method="post" action="send.php">
-							<input type="text" name="name" placeholder="name">
-							<input type="email" name="email" placeholder="email">
-							<textarea name="message" placeholder="message" ></textarea>
-							<input type="submit"  name="btn">
+						 <form method="post" action="contact-post.html">
+							<input type="text" class="textbox" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+							<input type="text" class="textbox" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
+							<textarea value="Message:" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+							<input type="submit" value="Submit">
 						 </form>
 					  </div>
 					</div>

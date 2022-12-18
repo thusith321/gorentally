@@ -180,9 +180,6 @@ body a{
     z-index: 9999;
     background:#fff;
 }
-
-
-
 /***** Media Quries *****/
 @media screen and (max-width: 768px) {
 	.h_logo4{
@@ -1703,5 +1700,6 @@ h2.m_7 {
       }
       }
 
+	 
 	
 }
